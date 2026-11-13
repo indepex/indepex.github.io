@@ -125,7 +125,7 @@ terrestrial radiation in spacecraft coordinates.
 The analysis identifies critical incident directions and elevation angles, 
 providing the geometrical requirements for radiator shielding.
 
-[Read more](earth-radiation/)
+[Read more]({{ '/projects/satellite/earth-radiation/' | relative_url }})
 
 ### Thermal Shield Design
 
