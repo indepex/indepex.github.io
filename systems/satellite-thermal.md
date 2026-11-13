@@ -141,7 +141,7 @@ Ray-tracing calculations of directional radiative coupling between the radiator 
 its surroundings, accounting for reflection and absorption by spacecraft structures. 
 The results are used to evaluate the effective radiative coupling with the Earth.
 
-[Read more](radiative-coupling/)
+[Read more]({{ '/projects/satellite/radiative-coupling/' | relative_url }})
 
 ### Integrated Thermal Analysis
 
