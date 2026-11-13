@@ -133,7 +133,7 @@ Geometrical investigation of thermal shields to reduce terrestrial radiation rea
 Single- and multi-stage conical shield configurations are compared to determine suitable 
 shielding geometries.
 
-[Read more](shield-design/)
+[Read more]({{ '/projects/satellite/shield-design/' | relative_url }})
 
 ### Radiative Coupling
 
