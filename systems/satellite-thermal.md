@@ -150,7 +150,7 @@ spacecraft attitude, and three-dimensional radiative coupling calculations.
 The analysis investigates the effects of orbital altitude, LTAN, observation duration, 
 and shield geometry on the radiator's thermal performance.
 
-[Read more](thermal-analysis/)
+[Read more]({{ '/projects/satellite/thermal-analysis/' | relative_url }})
 
 ## Scope
 
