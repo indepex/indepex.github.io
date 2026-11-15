@@ -32,13 +32,17 @@ CADを用いた機械設計など、さまざまな成果を扱います。
 
 [計算コード・実行例（GitHub）](https://github.com/indepex/on-orbit-radiator-analysis)
 
-### CMOS Detector Readout & Control System（公開準備中）
+### CMOS Detector Readout & Control System（一部公開済み）
 
-CMOS-ROICを持つ検出器の駆動、信号取得、データ保存を行うシステム。
+CMOS-ROICを持つ検出器の駆動、アナログ信号処理、データ取得・保存を行うシステム。
 
-- 検出器駆動・ADC電子回路
-- FPGAによるクロック生成とデータ取得
-- Zynq上のLinuxとFPGAの統合制御
+- 検出器の信号を増幅し、A/D変換するフロントエンド電子回路
+- FPGAによる検出器駆動クロックの生成とデータ取得
+- Zynq上のLinuxとFPGAを組み合わせた制御システム
+
+フロントエンド電子回路については、計装アンプ方式（FEE-I）と完全差動アンプ方式（FEE-D）の2種類の設計を公開しています。
+
+[Detector Front-End Electronics（GitHub）](https://github.com/indepex/detector-front-end)
 
 ### Cryogenic Detector Test System（公開準備中）
 
@@ -69,10 +73,11 @@ CMOS-ROICを持つ検出器の駆動、信号取得、データ保存を行う�
 
 検出器の駆動、信号処理、データ取得に関する電子回路と制御技術。
 
-- CMOS Detector Driver & ADC Electronics
+- [CMOS Detector Front-End Electronics](https://github.com/indepex/detector-front-end) — 計装アンプ方式と完全差動アンプ方式のフロントエンド回路
 - FPGA-based Detector Control
 - Zynq Linux/FPGA Control System
 - Raspberry Pi Pico Clock Tester
+
 
 ### Experimental & Cryogenic Systems
 
