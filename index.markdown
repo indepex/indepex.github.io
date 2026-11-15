@@ -56,50 +56,10 @@ CMOS-ROICを持つ検出器の駆動、信号取得、データ保存を行う�
 
 ---
 
-## Explore by Topic
-
-開発成果を技術分野別に分類しています。
-
-### Spacecraft Analysis & Simulation
-
-衛星の軌道、姿勢、放射・熱環境に関する数値計算とシミュレーション。
-
-- Ray Tracing
-- Radiative View Factor Calculation
-- Satellite Orbit Propagation from TLE
-- Spacecraft Attitude Calculation
-- Spacecraft Radiator Thermal Analysis
-
-### Detector Electronics & FPGA Systems
-
-検出器の駆動、信号処理、データ取得に関する電子回路と制御技術。
-
-- [CMOS Detector Driver & ADC Electronics]({{ '/projects/detector/front-end/' | relative_url }})
-- FPGA-based Detector Control
-- Zynq Linux/FPGA Control System
-- Raspberry Pi Pico Clock Tester
+## Other Projects & Tools
 
 
-### Experimental & Cryogenic Systems
-
-科学観測機器の試験に使用する装置の設計と性能改善。
-
-- Cryogenic Vacuum Test Chamber
-- Cryogenic Performance Improvements
-- Thermal Design for Experimental Apparatus
-
-### Instrument Control & Measurement Software
-
-各種計測器をコンピュータから制御し、測定データを取得・記録するためのソフトウェア。
-
-- Digital Storage Oscilloscope Control
-- PW18 Power Supply Control
-- Lake Shore Temperature Controller
-- Vacuum Gauge Data Acquisition
-
-### CAD, Mechanical Design & Fabrication
-
-CADを利用した設計支援ツールと、実験・製作に役立つ機械部品や治具。
+### CADを利用した設計支援ツールと、実験・製作に役立つ機械部品や治具。
 
 - FreeCAD Assembly Integration Tool
 - 3D-printed Laboratory Tools
