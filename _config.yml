@@ -20,8 +20,7 @@
 
 title: Scientific & Engineering Projects
 email: 
-description: 研究開発で作成したソフトウェア、電子回路、
-  科学観測機器、実験装置、機械設計などの技術資料と公開プロジェクト。
+description: 天文可視赤外線観測装置むけ技術資料と公開プロジェクト
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
