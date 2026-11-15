@@ -108,8 +108,6 @@ CMOS-ROICを持つ検出器の駆動、信号取得、データ保存を行う�
 CADを利用した設計支援ツールと、実験・製作に役立つ機械部品や治具。
 
 - FreeCAD Assembly Integration Tool
-- Twisted-wire Making Machine
-- D-sub Connector Covers
 - 3D-printed Laboratory Tools
 
 ---
