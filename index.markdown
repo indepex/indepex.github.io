@@ -72,9 +72,6 @@ CMOS-ROICを持つ検出器の駆動、信号取得、データ保存を行う�
 
 ### Detector Electronics & FPGA Systems
 
-
-### Detector Electronics & FPGA Systems
-
 検出器の駆動、信号処理、データ取得に関する電子回路と制御技術。
 
 - [CMOS Detector Driver & ADC Electronics]({{ '/projects/detector/front-end/' | relative_url }})
