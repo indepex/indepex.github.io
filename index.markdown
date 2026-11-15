@@ -43,9 +43,6 @@ CMOS-ROICを持つ検出器の駆動、信号取得、データ保存を行う�
 
 電子回路については、FEE-IおよびFEE-Dの回路構成、設計資料、シミュレーション結果を公開しています。
 
-[設計データ・技術文書（GitHub）](https://github.com/indepex/detector-front-end)
-
-
 [Detector Front-End Electronics（GitHub）](https://github.com/indepex/detector-front-end)
 
 ### Cryogenic Detector Test System（公開準備中）
